@@ -59,3 +59,4 @@ cd ..
 rm -rf node_exporter-1.8.2.linux-amd64 node_exporter-1.8.2.linux-amd64.tar.gz
 
 echo "Cài đặt Node Exporter hoàn tất!"
+
